@@ -1,0 +1,6 @@
+numpy
+music21
+pandas
+statsmodels
+scikit-learn
+tqdm
