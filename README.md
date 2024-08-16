@@ -110,6 +110,10 @@ python src/main.py -f <training_set> -s dataset/manzara
 
 #### Linked Viewpoints
 
+Linked viewpoints are created by the conjunction of any basic, derived, test, and threaded viewpoints.
+
+For example to link cpitch with dur: `cpitch&dur`.
+
 
 ## Citation
 
