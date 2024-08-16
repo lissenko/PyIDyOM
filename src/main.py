@@ -12,7 +12,6 @@ from tqdm import tqdm
 
 from feature_selection import manzara_feature_selection, uncertainty_feature_selection, cross_validation
 
-from midi import plot_ic
 from variance_comparison import model_comparison, MANZARA_IC_151, MANZARA_IC_61
 reference_data = MANZARA_IC_151
 
