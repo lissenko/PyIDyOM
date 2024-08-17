@@ -16,7 +16,7 @@ python -m venv myenv
 source myenv/bin/activate
 pip install -r requirements.txt
 ```
-### Usage
+## Usage
 
 To train the model.  Separate viewpoints with a comma. The viewpoint list is available [here](#Viewpoints).
 
