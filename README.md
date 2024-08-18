@@ -4,7 +4,7 @@
 
 <p align="center">
 PyIDyOM is a Python implementation of the <a href="https://github.com/mtpearce/idyom" title="IDyOM">IDyOM</a> program.
-This project was realized as part of my <a href="./master_thesis.pdf" title="master thesis">master thesis</a>.
+This project was realized as part of my <a href="./master_thesis.pdf" title="master thesis">master's thesis</a>.
 </p>
 
 ## Installation
